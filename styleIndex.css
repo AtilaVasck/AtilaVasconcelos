@@ -1,0 +1,20 @@
+body{
+    background-color:rgba(0, 0, 0, 0.932);
+    text-align: justify;
+    font-family: sans-serif;
+}
+p{
+    color: turquoise;
+}
+.label {
+    color: darkcyan;
+}
+.label2{
+    color: turquoise;
+}
+.label3{
+    color: aquamarine;
+}
+.label4{
+    color: rgb(180, 228, 228);
+}
